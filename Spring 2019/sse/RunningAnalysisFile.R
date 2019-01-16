@@ -3,9 +3,9 @@ source('soundecologyEditedFile.R')
 soundindex<- "ndsi"
 no_cores<- 2
 
-res<-"C:/Users/evan/Desktop/testdata.csv"
-logfile <- "C:/Users/evan/Desktop/logfile.csv" # i think that this file will be appended to, so make sure it is empty.
-filesToAnalyze <- "C:/Users/evan/Desktop/filenames.txt"
+res<-"testdata.csv"
+logfile <- "logfile.csv" # i think that this file will be appended to, so make sure it is empty.
+filesToAnalyze <- "filenames.txt"
 
 lengthSec <-3480 # seconds in 60 minutes but not all samples are exactly 60 minutes
 sampleLengthSec <-30 # 30 seconds analysis lengths 
