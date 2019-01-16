@@ -1,0 +1,2 @@
+current | total
+143 | 348
