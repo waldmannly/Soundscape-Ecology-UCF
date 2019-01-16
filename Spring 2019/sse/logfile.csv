@@ -1,0 +1,122 @@
+starting worker pid=10788 on localhost:11421 at 22:25:47.984
+starting worker pid=6708 on localhost:11421 at 22:25:48.135
+Loading required package: soundecology
+Loading required package: soundecology
+Loading required package: tuneR
+Loading required package: tuneR
+
+ This is a stereo file. Results will be given for each channel.
+
+ Calculating index. Please wait... 
+
+ This is a stereo file. Results will be given for each channel.
+
+ Calculating index. Please wait... 
+  Normalized Difference Soundscape Index:
+
+   Left channel: -0.6912034
+   Right channel: -0.6256913
+
+[1] "FILENAME,SAMPLINGRATE,BIT,DURATION,CHANNELS,INDEX,FFT_W,ANTHRO_MIN,ANTHRO_MAX,BIO_MIN,BIO_MAX,LEFT_CHANNEL,RIGHT_CHANNEL,from,to"
+[1] "C:\\Users\\evan\\Desktop\\S4A04633_20180111_170000.wav,96000,16,30,2,ndsi,1024,1000,2000,2000,11000,-0.691203395852639,-0.625691319194117,0,30"
+  Normalized Difference Soundscape Index:
+
+   Left channel: -0.7147178
+   Right channel: -0.6732659
+
+[1] "FILENAME,SAMPLINGRATE,BIT,DURATION,CHANNELS,INDEX,FFT_W,ANTHRO_MIN,ANTHRO_MAX,BIO_MIN,BIO_MAX,LEFT_CHANNEL,RIGHT_CHANNEL,from,to"
+[1] "C:\\Users\\evan\\Desktop\\S4A04633_20180111_170000.wav,96000,16,30,2,ndsi,1024,1000,2000,2000,11000,-0.714717768720272,-0.673265883769824,30,60"
+
+ This is a stereo file. Results will be given for each channel.
+
+ Calculating index. Please wait... 
+
+ This is a stereo file. Results will be given for each channel.
+
+ Calculating index. Please wait... 
+  Normalized Difference Soundscape Index:
+
+   Left channel: -0.7075214
+   Right channel: -0.6142206
+
+[1] "FILENAME,SAMPLINGRATE,BIT,DURATION,CHANNELS,INDEX,FFT_W,ANTHRO_MIN,ANTHRO_MAX,BIO_MIN,BIO_MAX,LEFT_CHANNEL,RIGHT_CHANNEL,from,to"
+[1] "C:\\Users\\evan\\Desktop\\S4A04633_20180111_170000.wav,96000,16,30,2,ndsi,1024,1000,2000,2000,11000,-0.707521406995719,-0.614220563938377,60,90"
+  Normalized Difference Soundscape Index:
+
+   Left channel: -0.6336794
+   Right channel: -0.53817
+
+[1] "FILENAME,SAMPLINGRATE,BIT,DURATION,CHANNELS,INDEX,FFT_W,ANTHRO_MIN,ANTHRO_MAX,BIO_MIN,BIO_MAX,LEFT_CHANNEL,RIGHT_CHANNEL,from,to"
+[1] "C:\\Users\\evan\\Desktop\\S4A04633_20180111_170000.wav,96000,16,30,2,ndsi,1024,1000,2000,2000,11000,-0.633679384798166,-0.538170004705823,90,120"
+
+ This is a stereo file. Results will be given for each channel.
+
+ Calculating index. Please wait... 
+
+ This is a stereo file. Results will be given for each channel.
+
+ Calculating index. Please wait... 
+  Normalized Difference Soundscape Index:
+
+   Left channel: -0.6963305
+   Right channel: -0.6310164
+
+[1] "FILENAME,SAMPLINGRATE,BIT,DURATION,CHANNELS,INDEX,FFT_W,ANTHRO_MIN,ANTHRO_MAX,BIO_MIN,BIO_MAX,LEFT_CHANNEL,RIGHT_CHANNEL,from,to"
+[1] "C:\\Users\\evan\\Desktop\\S4A04633_20180111_170000.wav,96000,16,30,2,ndsi,1024,1000,2000,2000,11000,-0.696330530666163,-0.631016412957567,120,150"
+  Normalized Difference Soundscape Index:
+
+   Left channel: -0.5642227
+   Right channel: -0.5578564
+
+[1] "FILENAME,SAMPLINGRATE,BIT,DURATION,CHANNELS,INDEX,FFT_W,ANTHRO_MIN,ANTHRO_MAX,BIO_MIN,BIO_MAX,LEFT_CHANNEL,RIGHT_CHANNEL,from,to"
+[1] "C:\\Users\\evan\\Desktop\\S4A04633_20180111_170000.wav,96000,16,30,2,ndsi,1024,1000,2000,2000,11000,-0.564222721291663,-0.557856431504814,150,180"
+
+ This is a stereo file. Results will be given for each channel.
+
+ Calculating index. Please wait... 
+
+ This is a stereo file. Results will be given for each channel.
+
+ Calculating index. Please wait... 
+  Normalized Difference Soundscape Index:
+
+   Left channel: -0.6209419
+   Right channel: -0.5389693
+
+[1] "FILENAME,SAMPLINGRATE,BIT,DURATION,CHANNELS,INDEX,FFT_W,ANTHRO_MIN,ANTHRO_MAX,BIO_MIN,BIO_MAX,LEFT_CHANNEL,RIGHT_CHANNEL,from,to"
+[1] "C:\\Users\\evan\\Desktop\\S4A04633_20180111_170000.wav,96000,16,30,2,ndsi,1024,1000,2000,2000,11000,-0.620941932677223,-0.53896932976337,180,210"
+  Normalized Difference Soundscape Index:
+
+   Left channel: -0.5790125
+   Right channel: -0.5220201
+
+[1] "FILENAME,SAMPLINGRATE,BIT,DURATION,CHANNELS,INDEX,FFT_W,ANTHRO_MIN,ANTHRO_MAX,BIO_MIN,BIO_MAX,LEFT_CHANNEL,RIGHT_CHANNEL,from,to"
+[1] "C:\\Users\\evan\\Desktop\\S4A04633_20180111_170000.wav,96000,16,30,2,ndsi,1024,1000,2000,2000,11000,-0.579012472833288,-0.522020084053493,210,240"
+
+ This is a stereo file. Results will be given for each channel.
+
+ Calculating index. Please wait... 
+
+ This is a stereo file. Results will be given for each channel.
+
+ Calculating index. Please wait... 
+  Normalized Difference Soundscape Index:
+
+   Left channel: -0.4516074
+   Right channel: -0.431491
+
+[1] "FILENAME,SAMPLINGRATE,BIT,DURATION,CHANNELS,INDEX,FFT_W,ANTHRO_MIN,ANTHRO_MAX,BIO_MIN,BIO_MAX,LEFT_CHANNEL,RIGHT_CHANNEL,from,to"
+[1] "C:\\Users\\evan\\Desktop\\S4A04633_20180111_170000.wav,96000,16,30,2,ndsi,1024,1000,2000,2000,11000,-0.451607387952468,-0.431491006384993,240,270"
+  Normalized Difference Soundscape Index:
+
+   Left channel: -0.5366028
+   Right channel: -0.457962
+
+[1] "FILENAME,SAMPLINGRATE,BIT,DURATION,CHANNELS,INDEX,FFT_W,ANTHRO_MIN,ANTHRO_MAX,BIO_MIN,BIO_MAX,LEFT_CHANNEL,RIGHT_CHANNEL,from,to"
+[1] "C:\\Users\\evan\\Desktop\\S4A04633_20180111_170000.wav,96000,16,30,2,ndsi,1024,1000,2000,2000,11000,-0.536602833506729,-0.457961966711864,270,300"
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
